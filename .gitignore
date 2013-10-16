@@ -1,0 +1,7 @@
+*#
+.#*
+*~
+.*.swp
+dist/.hsenv
+dist
+.hsenv
